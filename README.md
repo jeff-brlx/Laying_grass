@@ -1,15 +1,15 @@
 # Laying_grass
-A/Description
- Le jeu, du laying grass , joué par 2 à 9 joueurs,
-consiste à placer des tuiles d'herbe sur un plateau
-de territoire basé sur une grille pour étendre son
-territoire, dans le but de créer le plus grand
-territoire carré. La taille de la grille varie de 20x20
-pour 2 à 4 joueurs à 30x30 pour 5 à 9 joueurs. Le
-gagnant est celui qui parvient à couvrir le plus
-grand carré à la fin
+- Description :
+   Le jeu, du laying grass , joué par 2 à 9 joueurs,
+  consiste à placer des tuiles d'herbe sur un plateau
+  de territoire basé sur une grille pour étendre son
+  territoire, dans le but de créer le plus grand
+  territoire carré. La taille de la grille varie de 20x20
+  pour 2 à 4 joueurs à 30x30 pour 5 à 9 joueurs. Le
+  gagnant est celui qui parvient à couvrir le plus
+  grand carré à la fin
 
-B/Installation
+- Installation :
 Tout d‘abord téléchargez et extrayez notre dossier
 compressé “ laying-grass-game“ contenant le code
 source du jeu .
