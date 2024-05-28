@@ -13,9 +13,9 @@
 Tout d‘abord téléchargez et extrayez notre dossier
 compressé “ laying-grass-game“ contenant le code
 source du jeu .
-Copiez le code source tout en haut dans la barre de
-tache puis ouvrez un éditeur de code prenant en
-charge le language c++ ( CLion de préférence ).Dans
+Copiez le chemin du projet s'affichant  tout en haut dans la barre de
+tache de votre explorateur de fichier , puis ouvrez un éditeur de code prenant en
+charge le language c++ ( CLion de préférence ). Dans
 votre éditeur de code collez le chemin d’accès au
 dossier puis ouvrez le .
 Recherchez dans la vue du dossier le fichier nommé
